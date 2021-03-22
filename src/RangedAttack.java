@@ -3,6 +3,7 @@
  *date: 22 Mar 2021
  *Description: Strategy
  */
+
 public class RangedAttack implements Attack{
     Monster attacker;
 
