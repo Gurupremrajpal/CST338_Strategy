@@ -1,3 +1,8 @@
+/*
+ *author: Guruprem Rajpal
+ *date: 20 Mar 2021
+ *Description: Strategy
+ */
 public class MeleeAttack implements Attack{
     Monster attacker;
 
