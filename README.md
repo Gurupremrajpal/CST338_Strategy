@@ -1,5 +1,5 @@
 # CST338_Strategy
-Click on Star if you like :) z
+Click on Star if you like :) 
 
 ## License
 
